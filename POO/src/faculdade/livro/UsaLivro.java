@@ -1,4 +1,4 @@
-package livro;
+package faculdade.livro;
 
 public class UsaLivro {
     public static void main(String[] args) {

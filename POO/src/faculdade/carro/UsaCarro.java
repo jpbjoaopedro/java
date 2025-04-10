@@ -1,4 +1,4 @@
-package carro;
+package faculdade.carro;
 public class UsaCarro {
     public void main(String[] args) {
         Carro meuCarro = new Carro("Palio", "azul");

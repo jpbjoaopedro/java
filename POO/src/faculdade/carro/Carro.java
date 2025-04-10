@@ -1,4 +1,4 @@
-package carro;
+package faculdade.carro;
 
 public class Carro {
     String marca;
